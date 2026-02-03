@@ -1,18 +1,18 @@
-#Google Fiber IP Blocks#
+#Google Fiber#
 136.106.0.0/16
 136.96.0.0/13
 136.104.0.0/15
 #
-#CDE-Lightband IP Range#
+#CDE-Lightband#
 206.225.136.0-206.225.143.255
 #
-#Telecom Italia
+#Telecom Italia#
 95.224.0.0-95.239.255.255
 #
-#Comcast
+#Comcast#
 96.128.0.0-96.223.255.255
 #
-#AT&T
+#AT&T#
 108.192.0.0-108.255.255.255
 #
 
