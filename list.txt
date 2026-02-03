@@ -15,7 +15,7 @@
 #AT&T#
 108.192.0.0-108.255.255.255
 #
-#Telus#
+#Telus - Canada#
 142.173.0.0-142.173.255.255
 #
 #TELKOMSEL - Indonesia#
